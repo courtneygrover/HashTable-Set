@@ -1,0 +1,8 @@
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1Test\Assignment1Test\bin\Debug\Assignment1Test.dll
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1Test\Assignment1Test\bin\Debug\Assignment1Test.pdb
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1Test\Assignment1Test\bin\Debug\Assignment1.dll
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1Test\Assignment1Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1Test\Assignment1Test\bin\Debug\Assignment1.pdb
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1Test\Assignment1Test\obj\Debug\Assignment1Test.csprojResolveAssemblyReference.cache
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1Test\Assignment1Test\obj\Debug\Assignment1Test.dll
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1Test\Assignment1Test\obj\Debug\Assignment1Test.pdb
