@@ -1,0 +1,6 @@
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1\Assignment1\bin\Debug\Assignment1.dll.config
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1\Assignment1\bin\Debug\Assignment1.dll
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment1\Assignment1\obj\Debug\Assignment1.dll
